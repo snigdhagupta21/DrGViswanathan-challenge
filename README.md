@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# DrGViswanathan Challenge
 
 This repository contains my LeetCode problem solutions in Java.
 
