@@ -1,6 +1,6 @@
 # DrGViswanathan Challenge
 
-This repository contains my LeetCode problem solutions in Java.
+This repository contains my LeetCode and GeeksForGeeks problem solutions in Java.
 
 ## Problems Solved
 
@@ -13,6 +13,9 @@ This repository contains my LeetCode problem solutions in Java.
 7. Rotate Matrix
 8. Merge Overlapping Subintervals
 9. Merge two sorted arrays without extra space
+10. Find the duplicate in an array of N+1 integers
+11. Repeat and Missing Number
+12. Count Inversions (Pre req: Merge Sort)
 
 #DrGViswanathan challenge
-#LeetCode #Java #DSA
+#LeetCode #GFG #Java #DSA
