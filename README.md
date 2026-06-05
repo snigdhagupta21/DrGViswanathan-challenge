@@ -16,6 +16,9 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 10. Find the duplicate in an array of N+1 integers
 11. Repeat and Missing Number
 12. Count Inversions (Pre req: Merge Sort)
+13. Search in a 2 D matrix
+14. Pow(x, n)
+15. Majority Element (>n/2 times)
 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
