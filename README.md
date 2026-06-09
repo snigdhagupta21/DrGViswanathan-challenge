@@ -28,6 +28,9 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 22. Largest Subarray with K sum
 23. Count number of subarrays with given xor K
 24. Longest Substring without repeat
+25. Reverse a LinkedList
+26. Find the middle of LinkedList
+27. Merge two sorted Linked List 
 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
