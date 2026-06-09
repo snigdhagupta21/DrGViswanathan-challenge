@@ -25,6 +25,9 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 19. 2Sum Problem
 20. 4-Sum Problem
 21. Longest Consecutive Sequence
+22. Largest Subarray with K sum
+23. Count number of subarrays with given xor K
+24. Longest Substring without repeat
 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
