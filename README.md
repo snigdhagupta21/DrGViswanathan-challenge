@@ -30,7 +30,13 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 24. Longest Substring without repeat
 25. Reverse a LinkedList
 26. Find the middle of LinkedList
-27. Merge two sorted Linked List 
+27. Merge two sorted Linked List
+28. Remove N-th node from back of LinkedList
+29. Add two numbers as LinkedList
+30. Delete a given Node when a node is given.(0(1) solution)
+31. Find intersection point of Y LinkedList
+32. Detect a cycle in Linked List
+33. Reverse a LinkedList in groups of size k
 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
