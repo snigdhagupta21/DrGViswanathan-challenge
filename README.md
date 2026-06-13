@@ -37,6 +37,9 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 31. Find intersection point of Y LinkedList
 32. Detect a cycle in Linked List
 33. Reverse a LinkedList in groups of size k
+34. Check if a LinkedList is palindrome or not.
+35. Find the starting point of the Loop of LinkedList
+36. Flattening of a LinkedList
 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
