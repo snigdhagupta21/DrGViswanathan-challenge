@@ -40,6 +40,9 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 34. Check if a LinkedList is palindrome or not.
 35. Find the starting point of the Loop of LinkedList
 36. Flattening of a LinkedList
+37. Rotate a LinkedList
+38. Clone a Linked List with random and next pointer
+39. 3 sum
 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
