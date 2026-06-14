@@ -43,6 +43,9 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 37. Rotate a LinkedList
 38. Clone a Linked List with random and next pointer
 39. 3 sum
+40. Trapping Rainwater
+41. Remove Duplicate from Sorted array
+42. Max consecutive ones
 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
