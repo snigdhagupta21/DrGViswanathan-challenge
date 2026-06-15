@@ -46,6 +46,9 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 40. Trapping Rainwater
 41. Remove Duplicate from Sorted array
 42. Max consecutive ones
+43. N meetings in one room
+44. Minimum number of platforms required for a railway
+45. Job sequencing Problem
 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
