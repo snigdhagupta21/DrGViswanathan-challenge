@@ -49,6 +49,12 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 43. N meetings in one room
 44. Minimum number of platforms required for a railway
 45. Job sequencing Problem
+46. Fractional Knapsack Problem
+47. Greedy algorithm to find minimum number of coins
+48. Assign Cookies
+49. Subset Sums
+50. Subset-II
+51. Combination sum-1
 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
