@@ -55,6 +55,9 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 49. Subset Sums
 50. Subset-II
 51. Combination sum-1
+52. Combination sum-2
+53. Palindrome Partitioning
+54. K-th permutation Sequence
 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
