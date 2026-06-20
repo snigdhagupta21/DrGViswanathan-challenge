@@ -58,6 +58,9 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 52. Combination sum-2
 53. Palindrome Partitioning
 54. K-th permutation Sequence
+55. Print all permutations of a string/array
+56. N queens Problem
+57. Sudoko Solver
 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
