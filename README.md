@@ -62,6 +62,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 56. N queens Problem
 57. Sudoko Solver
 58. Single Element in a Sorted Array
+59. Search in Rotated Sorted Array
 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
