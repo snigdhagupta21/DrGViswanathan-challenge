@@ -61,6 +61,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 55. Print all permutations of a string/array
 56. N queens Problem
 57. Sudoko Solver
+58. Single Element in a Sorted Array
 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
