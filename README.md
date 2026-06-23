@@ -63,6 +63,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 57. Sudoko Solver
 58. Single Element in a Sorted Array
 59. Search in Rotated Sorted Array
+60. Allocate Minimum Number of Pages
 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
