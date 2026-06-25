@@ -65,6 +65,8 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 59. Search in Rotated Sorted Array
 60. Allocate Minimum Number of Pages
 61.  Median of Two Sorted Arrays
+62.  Find nth root of m
+
 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
