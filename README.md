@@ -67,6 +67,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 61.  Median of Two Sorted Arrays
 62.  Find nth root of m
 63.  K-th element of two sorted arrays
+64.  Contains Duplicate II
 
 
 #DrGViswanathan challenge
