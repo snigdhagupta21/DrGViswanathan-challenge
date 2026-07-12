@@ -76,6 +76,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 70.  Maximum Sum Combination
 71.  Merge K Sorted Arrays
 72.  Aggressive Cows
+73.  Median in a row-wise sorted Matrix
 
 
 
