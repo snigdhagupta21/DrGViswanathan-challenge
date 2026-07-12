@@ -75,6 +75,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 69.  Find Median from Data Stream
 70.  Maximum Sum Combination
 71.  Merge K Sorted Arrays
+72.  Aggressive Cows
 
 
 
