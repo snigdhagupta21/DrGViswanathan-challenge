@@ -77,6 +77,8 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 71.  Merge K Sorted Arrays
 72.  Aggressive Cows
 73.  Median in a row-wise sorted Matrix
+74.  Implement Stack using Arrays
+75.  Implement Queue using Arrays
 
 
 
