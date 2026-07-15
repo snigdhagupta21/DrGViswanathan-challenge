@@ -79,8 +79,8 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 73.  Median in a row-wise sorted Matrix
 74.  Implement Stack using Arrays
 75.  Implement Queue using Arrays
-
-
+76.  Implement Stack using Queue
+77.  Implement Queue using Stack
 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
