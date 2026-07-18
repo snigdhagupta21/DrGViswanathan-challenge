@@ -82,6 +82,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 76.  Implement Stack using Queue
 77.  Implement Queue using Stack
 78.  Check for balanced parentheses
+79.  Next Greater Element
 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
