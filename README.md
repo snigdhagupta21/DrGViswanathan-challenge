@@ -86,6 +86,6 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 80.  Sort a Stack
 81.  Next Smaller Element
 82.  LRU cache 
-
+83.  Largest rectangle in a histogram
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
