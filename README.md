@@ -87,5 +87,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 81.  Next Smaller Element
 82.  LRU cache 
 83.  Largest rectangle in a histogram
+84.  Sliding Window maximum
+ 
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
