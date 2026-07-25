@@ -89,6 +89,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 83.  Largest rectangle in a histogram
 84.  Sliding Window maximum
 85.  Implement Min Stack
+86.  Rotten Orange (Using BFS)
  
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
