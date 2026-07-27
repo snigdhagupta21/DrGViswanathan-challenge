@@ -90,6 +90,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 84.  Sliding Window maximum
 85.  Implement Min Stack
 86.  Rotten Orange (Using BFS)
+87.  Find the maximum of minimums of every window size
  
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
