@@ -91,6 +91,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 85.  Implement Min Stack
 86.  Rotten Orange (Using BFS)
 87.  Find the maximum of minimums of every window size
+88.  The Celebrity Problem
  
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
