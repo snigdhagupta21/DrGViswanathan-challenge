@@ -93,6 +93,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 87.  Find the maximum of minimums of every window size
 88.  The Celebrity Problem
 89.  Inorder Traversal
+90.  Preorder Traversal
  
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
