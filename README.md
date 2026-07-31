@@ -94,6 +94,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 88.  The Celebrity Problem
 89.  Inorder Traversal
 90.  Preorder Traversal
+91.  Postorder Traversal
  
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
