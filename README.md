@@ -95,6 +95,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 89.  Inorder Traversal
 90.  Preorder Traversal
 91.  Postorder Traversal
+92.  Morris Inorder Traversal
  
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
