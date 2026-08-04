@@ -98,6 +98,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 92.  LeftView Of Binary Tree
 93.  Bottom View of Binary Tree
 94.  Top View of Binary Tree
+95.  Vertical order traversal
  
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
