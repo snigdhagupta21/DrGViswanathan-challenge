@@ -100,6 +100,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 94.  Top View of Binary Tree
 95.  Vertical order traversal
 96.  Root to Node Path in Binary Tree
+97.  Max width of a Binary Tree
  
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
