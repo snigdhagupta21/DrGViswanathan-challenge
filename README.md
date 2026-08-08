@@ -101,6 +101,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 95.  Vertical order traversal
 96.  Root to Node Path in Binary Tree
 97.  Max width of a Binary Tree
+98.  Morris Preorder Traversal
  
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
