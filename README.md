@@ -103,6 +103,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 97.  Max width of a Binary Tree
 98.  Morris Preorder Traversal
 99.  Preorder inorder postorder in a single traversal
+100.  Height of a Binary Tree
  
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
