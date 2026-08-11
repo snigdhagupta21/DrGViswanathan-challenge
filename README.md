@@ -104,6 +104,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 98.  Morris Preorder Traversal
 99.  Preorder inorder postorder in a single traversal
 100.  Height of a Binary Tree
+101.  Diameter of Binary Tree
  
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
