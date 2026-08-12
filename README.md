@@ -105,6 +105,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 99.  Preorder inorder postorder in a single traversal
 100.  Height of a Binary Tree
 101.  Diameter of Binary Tree
+102.  K-th largest element in a stream
  
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
