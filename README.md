@@ -109,6 +109,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 103.  K-th largest element in an unsorted array
 104.  DFS
 105.  BFS
+106.  Detect A cycle in Undirected Graph using BFS
  
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
