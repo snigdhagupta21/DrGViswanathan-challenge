@@ -110,6 +110,7 @@ This repository contains my LeetCode and GeeksForGeeks problem solutions in Java
 104.  DFS
 105.  BFS
 106.  Detect A cycle in Undirected Graph using BFS
+107.  Detect A cycle in a Directed Graph using BFS
  
 #DrGViswanathan challenge
 #LeetCode #GFG #Java #DSA
